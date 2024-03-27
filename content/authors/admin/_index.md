@@ -120,5 +120,5 @@ social:
 highlight_name: true
 ---
 
-#Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+#Colter J. Uscola is a PhD student at the University of British Columbia, Vancouver. His award-winning research focuses on processes of identity formation and mental health and is published in Society and Mental Health. 
 {style="text-align: justify;"}
