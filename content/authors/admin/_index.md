@@ -53,17 +53,14 @@ Skills:
     items:
       - name: Python
         description: ''
-        # percent: 80
         icon: python
         icon_pack: fab
       - name: NVivo
         description: ''
-        # percent: 100
         icon: chart-line
         icon_pack: fas
       - name: Stata
         description: ''
-        # percent: 40
         icon: database
         icon_pack: fas
   - name: Hobbies
@@ -72,17 +69,14 @@ Skills:
     items:
       - name: Hiking
         description: ''
-        # percent: 60
         icon: person-hiking
         icon_pack: fas
       - name: Camping
         description: ''
-        # percent: 100
         icon: tents-solid
         icon_pack: ' '
       - name: Reading Fantasy
         description: ''
-        # percent: 80
         icon: dragon-solid
         icon_pack: ' '
 
@@ -120,5 +114,5 @@ social:
 highlight_name: true
 ---
 
-#Colter J. Uscola is a PhD student at the University of British Columbia, Vancouver. His award-winning research focuses on processes of identity formation and mental health and is published in Society and Mental Health. 
+#I am a second-year PhD student in the Department of Sociology at UBC-Vancouver. I work under the supervision of Dr. Seth Abrutyn. <br> <br> My research interests revolve around mental health and identity transformations across the life course. Driven by a desire to counter the experiences that contribute to the onset of pathological alcohol/substance use, my intellectual passions fall within five broad areas. 1) social psychology; 2) mental health and health; 3) sociological theory; 4) worldviews, culture and social networks; and 5) computational social science. Specifically, I seek to reveal how and why status, identity, and emotions interact within cultures and along social networks to produce mental health outcomes that precipitate substance/alcohol misuse. <br> <br> I recently employed qualitative methods (e.g. semi-structured interviews and focus groups) aimed at outlining the etiology of alcohol use disorders by focusing on emotion, identity, and status dynamics (click here for link to publication). In the coming years, I will continue to hone both my qualitative and quantitative skills, focused on developing mixed-methods studies, especially those related to compuational methods, as I move through the PhD. I wholly intend to shift my work from a specific focus on substance misuse toward a more general focus on cultural elements, such as worldviews, that foster or mitigate social pain. From this, I hope to contribute to a deeper understanding of how social pain forms, and how it can be assuaged, and outline potential policy interventions, both at the local and macro realms of society. 
 {style="text-align: justify;"}
