@@ -1,7 +1,10 @@
+---
 title: ''
-  date: 2022-10-24
-  type: landing: sections:
-    - block: hero
+date: 2022-10-24
+type: landing
+
+sections:
+  - block: hero
     demo: true # Only display this section in the Hugo Blox Builder demo site
     content:
       title: Hugo Academic Theme
@@ -44,8 +47,8 @@ title: ''
       text: ''
       # Choose a user to display skills from (a folder name within `content/authors/`)
       username: admin
-  design:
-    columns: '1'
+    design:
+      columns: '1'
   - block: experience
     content:
       title: Experience
