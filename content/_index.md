@@ -69,7 +69,7 @@ sections:
           location: Vancouver, British Columbia
           date_start: '2023-09-01'
           date_end: 'Present'
-          description: Assistant to editors Drs. Amin Ghaziani and Seth Abrutyn
+          description: Assistant to editors Drs Amin Ghaziani and Seth Abrutyn
               Responsibilities include:
 
               * Pitch cutting-edge research to be summarized in the quarterly magazine
