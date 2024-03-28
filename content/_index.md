@@ -62,6 +62,7 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+    
         - title: Editorial Assistant
           company: _Contexts Magazine_
           company_url: 'https://contexts.org/'
