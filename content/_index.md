@@ -62,8 +62,7 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-    
-        - title: Editorial Assistant
+    - title: Editorial Assistant
           company: _Contexts Magazine_
           company_url: 'https://contexts.org/'
           company_logo: asa-logo
@@ -75,7 +74,7 @@ sections:
               * Pitch cutting-edge research to be summarized in the quarterly magazine
               * Write in-briefs (summaries) of research
               * Interview feature article authors
-        - title: Teaching Assistant
+    - title: Teaching Assistant
           company: University of British Columbia
           company_url: ''
           company_logo: ubc-crest
@@ -88,7 +87,7 @@ sections:
               * Leading Guest Lectures on Methods and Identity
               * Marking Essays and Exams
               * Hosting Study Sessions
-        - title: Research Assistant
+     - title: Research Assistant
           company: West Virginia University
           company_url: ''
           company_logo: wvu-crest
