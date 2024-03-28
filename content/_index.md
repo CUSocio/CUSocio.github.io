@@ -2,9 +2,10 @@
 # Leave the homepage title empty to use the site title
 title: ''
 date: 2022-10-24
-type: landing  
+type: landing
+
 sections:
-- block: hero
+  - block: hero
     demo: true # Only display this section in the Hugo Blox Builder demo site
     content:
       title: Hugo Academic Theme
@@ -35,12 +36,12 @@ sections:
         gradient_end: '#1976d2'
         gradient_start: '#004ba0'
         text_color_light: true
-    - block: about.biography
-      id: about
-      content:
-        title: Biography
+  - block: about.biography
+    id: about
+    content:
+      title: Biography
       # Choose a user profile to display (a folder name within `content/authors/`)
-        username: admin
+      username: admin
   - block: skills
     content:
       title: Skills
@@ -49,8 +50,8 @@ sections:
       username: admin
     design:
       columns: '1'
-    - block: experience
-      content:
+  - block: experience
+    content:
       title: Experience
       # Date format for experience
       #   Refer to https://docs.hugoblox.com/customization/#date-format
