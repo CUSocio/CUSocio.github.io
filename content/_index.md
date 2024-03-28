@@ -49,9 +49,9 @@ sections:
       # Choose a user to display skills from (a folder name within `content/authors/`)
       username: admin
     design:
-    columns: '1'
-  - block: experience
-    content:
+      columns: '1'
+    - block: experience
+      content:
       title: Experience
       # Date format for experience
       #   Refer to https://docs.hugoblox.com/customization/#date-format
