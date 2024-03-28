@@ -1,5 +1,3 @@
-import: travis-ci/build-configs:rubies.yml@main
-
 [build]
   command = "hugo --gc --minify -b $URL"
   publish = "public"
