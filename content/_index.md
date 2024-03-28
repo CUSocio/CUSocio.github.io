@@ -48,6 +48,7 @@ sections:
       # Choose a user to display skills from (a folder name within `content/authors/`)
       username: admin
     design:
+      # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
   - block: experience
     content:
