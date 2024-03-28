@@ -62,27 +62,51 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: CEO
-          company: GenCoin
-          company_url: ''
-          company_logo: org-gc
-          location: California
-          date_start: '2021-01-01'
-          date_end: ''
-          description: |2-
+
+        - title: Editorial Assistant
+          company: _Contexts Magazine_
+          company_url: 'https://contexts.org/'
+          company_logo: asa-logo
+          location: Vancouver, British Columbia
+          date_start: '2023-09-01'
+          date_end: 'Present'
+          description: Assistant to editors Drs. Amin Ghaziani and Seth Abrutyn
               Responsibilities include:
 
-              * Analysing
-              * Modelling
-              * Deploying
-        - title: Professor of Semiconductor Physics
-          company: University X
+              * Pitch cutting-edge research to be summarized in the quarterly magazine
+              * Write in-briefs (summaries) of research
+              * Interview feature article authors
+
+    
+        - title: Teaching Assistant
+          company: University of British Columbia
           company_url: ''
-          company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+          company_logo: ubc-crest
+          location: British Columbia
+          date_start: '2020-09-01'
+          date_end: 'Present'
+          description: Assisted in teaching multiple classes related to social theory, human development, race and ethnicity, and sociological methods
+              Responsibilities include:
+
+              * Leading Guest Lectures on Methods and Identity
+              * Marking Essays and Exams
+              * Hosting Study Sessions
+    
+        - title: Research Assistant
+          company: West Virginia University
+          company_url: ''
+          company_logo: wvu-crest
+          location: West Virginia
+          date_start: '2018-09-01'
+          date_end: '2020-4-31'
+          description: Developed research project related to expectation states theory and executed a 2x2 factorial vignette experiment
+              Responsibilities include:
+    
+              * Wrote literature review
+              * Constructed survey in Qualtrics and administered to large sample
+              * Analyzed data using STATA
+              * Presented findings at a National Conference
+    
     design:
       columns: '2'
   - block: accomplishments
